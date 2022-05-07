@@ -5,7 +5,11 @@
     "license": "MIT",
     "author": "m00nbyte <office@moonbyte.at>",
     "repository": {
-        "url": "git@github.com:m00nbyte/generate-humanstxt.git"
+        "url": "git+ssh://git@github.com/m00nbyte/generate-humanstxt.git"
+    },
+    "homepage": "https://github.com/m00nbyte/generate-humanstxt#readme",
+    "bugs": {
+        "url": "https://github.com/m00nbyte/generate-humanstxt/issues"
     },
     "keywords": [
         "humanstxt",

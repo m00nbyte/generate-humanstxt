@@ -1,0 +1,26 @@
+{
+    "path": "./test/humans.txt",
+    "options": {
+        "team": [
+            [
+                { "key": "<Title>", "value": "<Value>" },
+                { "key": "<Title>", "value": "<Value>" },
+                { "key": "<Title>", "value": "<Value>" },
+                { "key": "<Title>", "value": "<Value>" }
+            ]
+        ],
+        "thanks": [
+            [
+                { "key": "<Title>", "value": "<Value>" },
+                { "key": "<Title>", "value": "<Value>" },
+                { "key": "<Title>", "value": "<Value>" },
+                { "key": "<Title>", "value": "<Value>" }
+            ]
+        ],
+        "site": [
+            { "key": "<Title>", "value": "<Value>" },
+            { "key": "<Title>", "value": "__date__" },
+            { "key": "<Title>", "value": ["<Value>", "<Value>", "<Value>"] }
+        ]
+    }
+}
