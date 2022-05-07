@@ -1,6 +1,6 @@
 {
     "name": "@m00nbyte/generate-humanstxt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A nodejs package to generate a humans.txt file",
     "license": "MIT",
     "author": "m00nbyte <office@moonbyte.at>",
