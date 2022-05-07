@@ -1,0 +1,39 @@
+{
+    "name": "@m00nbyte/generate-humanstxt",
+    "version": "1.0.0",
+    "description": "A nodejs package to generate a humans.txt file",
+    "license": "MIT",
+    "author": "m00nbyte <office@moonbyte.at>",
+    "repository": {
+        "url": "git@github.com:m00nbyte/generate-humanstxt.git"
+    },
+    "keywords": [
+        "humanstxt",
+        "humans.txt",
+        "humans-txt",
+        "humans_txt",
+        "humans",
+        "human",
+        "generate"
+    ],
+    "main": "dist/index.js",
+    "bin": "dist/cli.js",
+    "files": [
+        "dist"
+    ],
+    "engines": {
+        "node": ">= 14.2.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.17.10",
+        "@babel/core": "^7.17.10",
+        "@babel/preset-env": "^7.17.10",
+        "del": "^6.0.0",
+        "del-cli": "^4.0.1"
+    },
+    "scripts": {
+        "prebuild": "del-cli -f dist",
+        "build": "babel src --out-dir dist",
+        "test": "echo \"No test specified\""
+    }
+}
