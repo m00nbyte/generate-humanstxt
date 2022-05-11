@@ -1,6 +1,7 @@
 # generate-humanstxt
 
-[![NPM version](https://img.shields.io/npm/v/@m00nbyte/generate-humanstxt.svg)](https://www.npmjs.org/package/@m00nbyte/generate-humanstxt)
+[![npm version](https://img.shields.io/npm/v/@m00nbyte/generate-humanstxt.svg)](https://www.npmjs.org/package/@m00nbyte/generate-humanstxt)
+[![npm downloads](https://img.shields.io/npm/dm/@m00nbyte/generate-humanstxt)](https://www.npmjs.org/package/@m00nbyte/generate-humanstxt)
 
 Generating `humans.txt` using nodejs
 
@@ -66,6 +67,15 @@ node generate-humanstxt --config /path/to/config.json
 ## Contribution
 
 Feel free to submit issues or pull requests.
+
+## Like my work?
+
+This project needs a :star: from you.
+Don't forget to leave a star.
+
+<a href="https://www.buymeacoffee.com/m00nbyte" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60">
+</a>
 
 ## [Changelog](CHANGELOG.md)
 
